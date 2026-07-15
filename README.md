@@ -330,8 +330,8 @@ git push origin main
 
 ## 📁 สิ่งที่ต้องส่ง
 
-- [ ] Fork repo นี้ และตั้งชื่อ repo เป็น `67XXXXXXXX-X`
-- [ ] Push โค้ดพร้อมข้อมูลของตัวเองขึ้น GitHub
-- [ ] แสดง commit history อย่างน้อย 2 commits
-- [ ] Screenshot Browser ที่เรียก `/api/hello` และ `/api/info`
-- [ ] ส่งไฟล์ PDF ชื่อ `Lab03_xxxxSec#.pdf`
+- [✅] Fork repo นี้ และตั้งชื่อ repo เป็น `67XXXXXXXX-X`
+- [✅] Push โค้ดพร้อมข้อมูลของตัวเองขึ้น GitHub
+- [✅] แสดง commit history อย่างน้อย 2 commits
+- [✅] Screenshot Browser ที่เรียก `/api/hello` และ `/api/info`
+- [✅] ส่งไฟล์ PDF ชื่อ `Lab03_xxxxSec#.pdf`
